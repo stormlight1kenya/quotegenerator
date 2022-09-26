@@ -1,0 +1,2 @@
+# quotegenerator
+ Fenerates new quotes
